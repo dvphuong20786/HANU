@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">I think that </font>[#]<font color="#000000"> us to an end.</font>]]></sentence>
+			<options>
+				<option answer="correct">brings</option>
+				<option>sends</option>
+				<option>takes</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">So to  [#] <font color="#000000"> up what we've decided.</font>]]></sentence>
+			<options>
+				<option>count</option>
+				<option>calculate</option>
+				<option answer="correct">sum</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I think we've </font>[#]<font color="#000000"> up with a lot of good ideas.</font>]]></sentence>
+			<options>
+				<option>brought</option>
+				<option answer="correct">come</option>
+				<option>made</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I hope you </font>[#]<font color="#000000"> a safe journey home.</font>]]></sentence>
+			<options>
+				<option>do</option>
+				<option>take</option>
+				<option answer="correct">have</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Is there anything anyone would like to </font>[#]<font color="#000000"> up under AOB?</font>]]></sentence>
+			<options>
+				<option answer="correct">bring</option>
+				<option>hold</option>
+				<option>check</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I think we've discussed everything. Let's </font>[#] <font color="#000000"> things up there.</font>]]></sentence>
+			<options>
+				<option>cover</option>
+				<option>tie</option>
+				<option answer="correct">wrap</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We really got </font>[#]<font color="#000000"> a lot of business at the meeting.</font>]]></sentence>
+			<options>
+				<option>along</option>
+				<option>by</option>
+				<option answer="correct">through</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Let's </font>[#]<font color="#000000"> a time for our next meeting.</font>]]></sentence>
+			<options>
+				<option answer="correct">fix</option>
+				<option>notify</option>
+				<option>point</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

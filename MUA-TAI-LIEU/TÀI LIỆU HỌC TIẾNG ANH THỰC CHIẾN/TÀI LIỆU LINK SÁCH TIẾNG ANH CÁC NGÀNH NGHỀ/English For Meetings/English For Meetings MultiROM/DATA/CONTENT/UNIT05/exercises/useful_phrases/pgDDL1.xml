@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word or phrase to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">We're a bit  [#] <font color="#000000"> for time today.</font>]]></sentence>
+			<options>
+				<option>press</option>
+				<option answer="correct">pressed</option>
+				<option>pressing</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We're running out  [#] <font color="#000000"> time.</font>]]></sentence>
+			<options>
+				<option>from</option>
+				<option answer="correct">of</option>
+				<option>with</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Sorry but I'm not able to </font>[#]<font color="#000000"> along with that.</font>]]></sentence>
+			<options>
+				<option answer="correct">go</option>
+				<option>be</option>
+				<option>do</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'd like a couple of days to think this  </font>[#]<font color="#000000">.</font>]]></sentence>
+			<options>
+				<option>from</option>
+				<option>by</option>
+				<option answer="correct">over</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Can I get back to you </font>[#]<font color="#000000"> that?</font>]]></sentence>
+			<options>
+				<option answer="correct">on</option>
+				<option>of</option>
+				<option>for</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Can we meet and </font>[#] <font color="#000000"> over this together?</font>]]></sentence>
+			<options>
+				<option answer="correct">go</option>
+				<option>make</option>
+				<option>put</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I won't be able to </font>[#]<font color="#000000"> you up on that.</font>]]></sentence>
+			<options>
+				<option>make</option>
+				<option answer="correct">take</option>
+				<option>do</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I need to run this suggestion </font>[#]<font color="#000000"> my boss.</font>]]></sentence>
+			<options>
+				<option>for</option>
+				<option>at</option>
+				<option answer="correct">by</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

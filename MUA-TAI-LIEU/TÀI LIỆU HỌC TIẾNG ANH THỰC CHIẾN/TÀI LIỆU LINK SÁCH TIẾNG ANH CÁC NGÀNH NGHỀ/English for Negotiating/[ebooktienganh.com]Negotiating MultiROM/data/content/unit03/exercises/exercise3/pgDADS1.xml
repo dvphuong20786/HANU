@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Match the words and their definitions.</font>]]></rubric>
+	<questions>
+		<sentence><![CDATA[<font color="#000000">The first, happening at the start. </font>[initial]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Something you want to know or ask. </font>[query]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">To be arranged (not decided yet). </font>[TBA]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">The least successful point/moment ever. </font>[all-time low]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Everyone who buys a product or uses a service. </font>[customer base]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">The products and goods that a company has for sale. </font>[stock]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Having good effects, useful. </font>[beneficial]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A new business, or project.  </font>[venture]]]></sentence>
+	</questions>
+</exercise>

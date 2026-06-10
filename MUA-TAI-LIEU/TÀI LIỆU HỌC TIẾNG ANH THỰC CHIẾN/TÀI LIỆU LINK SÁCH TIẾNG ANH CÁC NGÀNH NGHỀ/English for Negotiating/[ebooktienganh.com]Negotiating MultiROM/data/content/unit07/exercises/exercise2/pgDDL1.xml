@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct words to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+	
+		
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">In future, we hope </font>[#] <font color="#000000"> our products in all your shops in Hungary. </font>]]></sentence>
+			<options>
+				<option>sell</option>
+				<option answer="correct">to sell</option>
+				<option >selling</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">By </font>[#] <font color="#000000"> agreement, we are going to sell our products only in Budapest this year.</font>]]></sentence>
+			<options>
+				<option>all</option>
+				<option answer="correct">mutual</option>
+				<option>together</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">There's no sales team in Hungary yet, but we are committed </font>[#] <font color="#000000"> a solution to this problem.</font>]]></sentence>
+			<options>
+				<option>find</option>
+				<option>finding</option>
+				<option answer="correct">to finding</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We'll </font>[#]<font color="#000000"> our best to translate our website into Hungarian by the end of the year.</font>]]></sentence>
+			<options>
+				<option answer="correct">do</option>
+				<option>make</option>
+				<option>put</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Now we've agreed everything, shall we </font>[#]<font color="#000000"> this into a written proposal? </font>]]></sentence>
+			<options>
+				<option>do</option>
+				<option >have</option>
+				<option answer="correct">put</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Let's draft a contract </font>[#]<font color="#000000"> on these points.</font>]]></sentence>
+			<options>
+				<option>base</option>
+				<option >basing</option>
+				<option answer="correct">based</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I would like to summarize as </font>[#]<font color="#000000">: 1. The deal begins in May. 2. Istvan is the manager.</font>]]></sentence>
+			<options>
+				<option answer="correct">follows</option>
+				<option>followed</option>
+				<option>follow</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">The closing </font>[#]<font color="#000000"> for signing the contract is the end of March.</font>]]></sentence>
+			<options>
+				<option answer="correct">date</option>
+				<option>hour</option>
+				<option>time</option>
+			</options>
+		</question>
+
+	</questions>
+</exercise>

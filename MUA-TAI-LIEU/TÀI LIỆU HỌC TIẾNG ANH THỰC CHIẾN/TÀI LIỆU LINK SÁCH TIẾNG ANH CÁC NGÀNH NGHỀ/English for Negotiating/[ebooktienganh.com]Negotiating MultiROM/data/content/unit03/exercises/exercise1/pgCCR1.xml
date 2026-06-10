@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">How do you do?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Very well, thank you.</font>]]></option>
+				<option ><![CDATA[<font color="#000000">That's very kind of you.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">How do you do?</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Welcome to Nokia, Mr Hussein.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">Thank you. It's a pleasure to meet you.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Thank you. It's my pleasure to meet you.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Thank you. It's pleased to meet you.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">It's very nice to meet you face to face at last.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">And you. Oh, may I introduce our Director, Maxine Powell?</font>]]></option>
+				<option><![CDATA[<font color="#000000">And you. Oh, do I introduce our Director, Maxine Powell?</font>]]></option>
+				<option><![CDATA[<font color="#000000">And you. Oh, shall I introduce our Director, Maxine Powell?</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Nice to meet you, Ms Powell.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Call me Maxine ... and this is Bob Lu. He orders our Research Department.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Call me Maxine ... and this is Bob Lu. He heads our Research Department.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Call me Maxine ... and this is Bob Lu. He commands our Research Department.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

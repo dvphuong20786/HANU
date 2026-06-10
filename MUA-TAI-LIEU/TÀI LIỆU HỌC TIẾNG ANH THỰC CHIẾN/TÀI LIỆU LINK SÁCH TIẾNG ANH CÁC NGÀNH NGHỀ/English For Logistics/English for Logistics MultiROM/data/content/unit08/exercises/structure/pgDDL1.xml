@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word or phrase to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'll </font>[#]<font color="#000000"> to you as soon as possible.</font>]]></sentence>
+			<options>
+				<option answer="correct">get back </option>
+				<option>contact</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Sorry, I don't know, but I'll </font>[#]<font color="#000000"> for you.</font>]]></sentence>
+			<options>
+				<option>look up</option>
+				<option answer="correct">find out</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Please find enclosed our draft </font>[#]<font color="#000000"> $6,500.</font>]]></sentence>
+			<options>
+				<option>about</option>
+				<option answer="correct">for</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Let me apologize for this </font>[#]<font color="#000000"> once again.</font>]]></sentence>
+			<options>
+				<option answer="correct">mistake</option>
+				<option>fault</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">It </font>[#]<font color="#000000"> that a mistake has been made.</font>]]></sentence>
+			<options>
+				<option answer="correct">seems</option>
+				<option>shows</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'm really </font>[#] <font color="#000000"> about this.</font>]]></sentence>
+			<options>
+				<option>afraid</option>
+				<option answer="correct">sorry</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We are looking </font>[#] <font color="#000000"> this matter.</font>]]></sentence>
+			<options>
+				<option answer="correct">into</option>
+				<option>over</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Please </font>[#]<font color="#000000"> the amount of €900 to our account.</font>]]></sentence>
+			<options>
+				<option>send</option>
+				<option answer="correct">transfer</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'm </font>[#]<font color="#000000">, but there will be a delivery delay. </font>]]></sentence>
+			<options>
+				<option>afraid</option>
+				<option answer="correct">sorry</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">As a </font>[#]<font color="#000000">, the goods had to be unpacked.</font>]]></sentence>
+			<options>
+				<option>reason</option>
+				<option answer="correct">result</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">The delay was </font>[#]<font color="#000000"> by a trucker strike in Spain.</font>]]></sentence>
+			<options>
+				<option answer="correct">caused</option>
+				<option>because</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">The sailing was cancelled </font>[#]<font color="#000000"> to bad weather.</font>]]></sentence>
+			<options>
+				<option answer="correct">due</option>
+				<option>as</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000"></font>[#]<font color="#000000">, we are unable to deliver on time.</font>]]></sentence>
+			<options>
+				<option answer="correct">Unfortunately</option>
+				<option>Unfortunate</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What is the </font>[#] <font color="#000000"> for this delay?</font>]]></sentence>
+			<options>
+				<option>cause</option>
+				<option answer="correct">reason</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">The consignment is expected to </font>[#] <font color="#000000"> on July 15.</font>]]></sentence>
+			<options>
+				<option answer="correct">arrive</option>
+				<option>reach</option>
+				</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">The order has been </font>[#]<font color="#000000"> over to our forwarder today.</font>]]></sentence>
+			<options>
+				<option>given</option>
+				<option answer="correct">handed</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

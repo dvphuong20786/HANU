@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct words to complete the phrases.</font>]]></rubric>
+	<questions>
+		
+	
+		
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">There is a </font>[#] <font color="#000000"> that we are going to merge with Wood-McDonald.</font>]]></sentence>
+			<options>
+				<option>possible</option>
+				<option>probable</option>
+				<option answer="correct">possibility</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">It </font>[#] <font color="#000000"> well be that people will lose their jobs in the merger.</font>]]></sentence>
+			<options>
+				<option>should</option>
+				<option answer="correct">could</option>
+				<option >must</option>
+			</options>
+		</question>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">It is to be </font>[#]<font color="#000000"> that mergers like this will happen during the credit crunch.</font>]]></sentence>
+			<options>
+				<option>expect</option>
+				<option answer="correct">expected</option>
+				<option>expectation</option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">It is hardly </font>[#] <font color="#000000"> that everyone will have to leave the company.</font>]]></sentence>
+			<options>
+				<option>alike</option>
+				<option>like</option>
+				<option answer="correct">likely</option>
+			</options>
+		</question>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">I propose </font>[#]<font color="#000000"> looking for a new job soon.</font>]]></sentence>
+			<options>
+				<option answer="correct">to start</option>
+				<option>start</option>
+				<option>you to start</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">There are other work possibilities. I mean, </font>[#]<font color="#000000"> you consider working abroad?</font>]]></sentence>
+			<options>
+				<option>do</option>
+				<option>may</option>
+				<option answer="correct">would</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Can you </font>[#]<font color="#000000"> me how the merger is going to happen?</font>]]></sentence>
+			<options>
+				<option>explain</option>
+				<option>say</option>
+				<option answer="correct">tell</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We suggest </font>[#]<font color="#000000"> at all the options before making a final decision.</font>]]></sentence>
+			<options>
+				<option answer="correct">that you look</option>
+				<option>you to look</option>
+				<option>you looking</option>
+			</options>
+		</question>
+
+	</questions>
+</exercise>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word to complete the phrases.</font>]]></rubric>
+	<questions>
+		
+	
+		
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Oh, Luke, can you help me with </font>[#] <font color="#000000">, please?</font>]]></sentence>
+			<options>
+				<option>anything</option>
+				<option>nothing</option>
+				<option answer="correct">something</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Please </font>[#] <font color="#000000"> me know the final price.</font>]]></sentence>
+			<options>
+				<option>have</option>
+				<option answer="correct">let</option>
+				<option >tell</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Do you have any details </font>[#] <font color="#000000"> the Rome deal?</font>]]></sentence>
+			<options>
+				<option answer="correct">on</option>
+				<option>to</option>
+				<option>over</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Who is responsible </font>[#]<font color="#000000"> these negotiations?</font>]]></sentence>
+			<options>
+				<option>about</option>
+				<option answer="correct">for</option>
+				<option>of</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Can I </font>[#]<font color="#000000"> you a favour?</font>]]></sentence>
+			<options>
+				<option answer="correct">ask</option>
+				<option>request</option>
+				<option>say</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Who is </font>[#]<font color="#000000"> charge of your purchasing department?</font>]]></sentence>
+			<options>
+				<option>at</option>
+				<option>on</option>
+				<option answer="correct">in</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We </font>[#]<font color="#000000"> to have time to consider your offer.</font>]]></sentence>
+			<options>
+				<option answer="correct">have</option>
+				<option>must</option>
+				<option>require</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Regular deliveries are essential </font>[#]<font color="#000000"> our customers!</font>]]></sentence>
+			<options>
+				<option>by</option>
+				<option answer="correct">for</option>
+				<option>of</option>
+			</options>
+		</question>
+
+	</questions>
+</exercise>

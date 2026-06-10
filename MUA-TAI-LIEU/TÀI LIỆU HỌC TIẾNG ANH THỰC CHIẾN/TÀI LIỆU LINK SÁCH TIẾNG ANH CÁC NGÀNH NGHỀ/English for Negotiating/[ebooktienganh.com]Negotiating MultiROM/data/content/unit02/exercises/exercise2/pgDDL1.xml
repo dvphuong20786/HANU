@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+	
+		
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Sales and marketing are refusing </font>[#] <font color="#000000"> the amalgamation of their departments.</font>]]></sentence>
+			<options>
+				<option>accept</option>
+				<option answer="correct">to accept</option>
+				<option >accepting</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Our </font>[#] <font color="#000000"> is to appoint our own Public Relations Consultant.</font>]]></sentence>
+			<options>
+				<option>intend</option>
+				<option>intending</option>
+				<option answer="correct">intention</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I am </font>[#] <font color="#000000"> to ask the workers to do more overtime.</font>]]></sentence>
+			<options>
+				<option>accept</option>
+				<option>agree</option>
+				<option answer="correct">willing</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We can </font>[#]<font color="#000000"> more redundancies against higher wages for all staff.</font>]]></sentence>
+			<options>
+				<option>buy</option>
+				<option>compromise</option>
+				<option answer="correct">trade</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">From our </font>[#]<font color="#000000"> of view there are a few things missing.</font>]]></sentence>
+			<options>
+				<option answer="correct">point</option>
+				<option>place</option>
+				<option>side</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">If you have any </font>[#]<font color="#000000"> points you wish to include, please mention them now.</font>]]></sentence>
+			<options>
+				<option answer="correct">specific</option>
+				<option>specify</option>
+				<option >specification</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Do you have any other points you </font>[#]<font color="#000000"> to add?</font>]]></sentence>
+			<options>
+				<option >like</option>
+				<option>please</option>
+				<option answer="correct">wish</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We need to </font>[#]<font color="#000000"> the agenda for tomorrow.</font>]]></sentence>
+			<options>
+				<option>argue</option>
+				<option answer="correct">discuss</option>
+				<option>tell</option>
+			</options>
+		</question>
+
+	</questions>
+</exercise>

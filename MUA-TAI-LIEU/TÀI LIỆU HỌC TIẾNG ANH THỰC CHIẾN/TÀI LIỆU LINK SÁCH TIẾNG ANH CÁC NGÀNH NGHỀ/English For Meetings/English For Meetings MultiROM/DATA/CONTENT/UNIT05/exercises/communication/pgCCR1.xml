@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What sort of payment options are there?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">There's a quantity of possibilities.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">There's a range of possibilities.</font>]]></option>
+				<option><![CDATA[<font color="#000000">There's a degree of possibilities.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">How much will this cost?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">I'll draw up a quotation and send it on to you.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I'll develop up a quotation and send it on to you.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I'll construct up a quotation and send it on to you.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Do you think you'll be able to finish this by Wednesday?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Is there place for manoeuvre on when I can finish it?</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Is there room for manoeuvre on when I can finish it?</font>]]></option>
+				<option><![CDATA[<font color="#000000">Is there area for manoeuvre on when I can finish it?</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">It was nice to meet you again, Enrique.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Yes and I wanted to meet you to follow through our conversation.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes and I wanted to meet you to follow across our conversation.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Yes and I wanted to meet you to follow up our conversation.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

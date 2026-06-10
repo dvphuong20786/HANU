@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">You're saying that this deal will save our company €15,000 a year.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Yes. That's correct, hasn't it?</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Yes. That's correct, isn't it?<//font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes. That's correct, don't it?</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Your prices seem to have risen this year.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Is it alright with you whether we don't discuss that right now?</font>]]></option>
+				<option><![CDATA[<font color="#000000">Is it alright with you when we don't discuss that right now?</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Is it alright with you if we don't discuss that right now?</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Would you consider reducing your share of the profits to 7.35%?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I'm sorry. That's not in the question.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I'm sorry. That's out of the question.</font>]]></option>
+				<option ><![CDATA[<font color="#000000">I'm sorry. That's away from the question.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Our chief negotiator won't be able to visit Beijing for six months.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">So, we can rule out the possibility of a China visit for the present?</font>]]></option>
+				<option><![CDATA[<font color="#000000">So, we can turn out the possibility of a China visit for the present?</font>]]></option>
+				<option><![CDATA[<font color="#000000">So, we can put out the possibility of a China visit for the present?</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

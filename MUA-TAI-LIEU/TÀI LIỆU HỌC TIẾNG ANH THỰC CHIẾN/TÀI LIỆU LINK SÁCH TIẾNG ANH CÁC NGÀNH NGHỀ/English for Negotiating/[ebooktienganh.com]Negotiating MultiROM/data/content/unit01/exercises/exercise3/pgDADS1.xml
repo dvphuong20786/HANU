@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Match the words and their definitions.</font>]]></rubric>
+	<questions>
+		<sentence><![CDATA[<font color="#000000">To run or organize a meeting. </font>[chair]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">The record of what was said or agreed in a meeting. </font>[minutes]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A reduced price. </font>[discount]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Someone who does a job if the main person becomes unavailable. </font>[backup]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A general word for numbers or calculations. </font>[figures]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A suggested price that is given at the start of a project. </font>[quotation]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Chief Executive Officer (the most powerful manager in a company). </font>[CEO]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">The thing that you want to achieve at the end of a project. </font>[objective]]]></sentence>
+	</questions>
+</exercise>

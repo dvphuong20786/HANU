@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">How long would it take to ship the consignment by road?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">It would normally takes about three days.</font>]]></option>
+				<option><![CDATA[<font color="#000000">It normally would take about three days.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">It would normally take about three days.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What would it cost to ship by barge?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">It would be not very expensive.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">It would not be very expensive.</font>]]></option>
+				<option><![CDATA[<font color="#000000">It would be much expensive.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">How does that compare with the rail option?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">It's much cheaper as rail.</font>]]></option>
+				<option><![CDATA[<font color="#000000">It's the most cheapest option.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">It's a lot cheaper than rail.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Would it be possible to use the express train?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">Yes, I think so.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes, I think this.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes, I think that.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

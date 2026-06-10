@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct words to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Can you explain your situation more </font>[#] <font color="#000000">, please?</font>]]></sentence>
+			<options>
+				<option>absolutely</option>
+				<option answer="correct">fully</option>
+				<option>totally</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">You </font>[#] <font color="#000000"> a good point there about the negotiations last week.</font>]]></sentence>
+			<options>
+				<option>do</option>
+				<option answer="correct">make</option>
+				<option >say</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">How can we </font>[#] <font color="#000000"> a compromise?</font>]]></sentence>
+			<options>
+				<option answer="correct">reach</option>
+				<option>come</option>
+				<option>arrive</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What do you think is a fair way </font>[#]<font color="#000000"> the disagreement that we have?</font>]]></sentence>
+			<options>
+				<option>resolve</option>
+				<option>resolving</option>
+				<option answer="correct">to resolve</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We pay half and you pay half. That seems </font>[#]<font color="#000000">.</font>]]></sentence>
+			<options>
+				<option answer="correct">reasonable</option>
+				<option>reasoning</option>
+				<option>reason</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">If I </font>[#]<font color="#000000"> in your position, I would also ask for a pay rise.</font>]]></sentence>
+			<options>
+				<option>will be</option>
+				<option answer="correct">were</option>
+				<option>am</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">This idea occurred </font>[#]<font color="#000000"> as a follow-up to our previous discussion.</font>]]></sentence>
+			<options>
+				<option>me</option>
+				<option>by me</option>
+				<option answer="correct">to me</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Is there any way we can </font>[#]<font color="#000000"> this offer better for you?</font>]]></sentence>
+			<options>
+				<option>do</option>
+				<option>have</option>
+				<option answer="correct">make</option>
+			</options>
+		</question>
+
+	</questions>
+</exercise>

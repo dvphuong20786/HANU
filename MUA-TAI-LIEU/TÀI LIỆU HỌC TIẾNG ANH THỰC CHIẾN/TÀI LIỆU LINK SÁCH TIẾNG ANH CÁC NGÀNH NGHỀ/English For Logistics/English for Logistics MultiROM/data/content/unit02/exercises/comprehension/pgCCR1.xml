@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What kind of logistics services does your company provide?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">We specialize for road transport solutions.</font>]]></option>
+				<option><![CDATA[<font color="#000000">We are specialized in road transport solutions.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">We specialize in road transport solutions.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Do you also offer customs brokerage?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">No, we can't.</font>]]></option>
+				<option><![CDATA[<font color="#000000">No, we didn't.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">No, we don't.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What online shipping services do you offer?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">We offering a web-based booking system.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">We provide a web-based booking system.</font>]]></option>
+				<option><![CDATA[<font color="#000000">We are providing you a web-based booking system.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">How can I locate a shipment in transit?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">By using our SMS fast-track system.</font>]]></option>
+				<option><![CDATA[<font color="#000000">If using our SMS fast-track system.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Not yet, no. Can you recommend some things for me to see?</font>]]></option>
+			</options>
+		</question>
+
+	</questions>
+</exercise>

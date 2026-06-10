@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct words to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+	
+		
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">I am writing to </font>[#] <font color="#000000"> our meeting for March 19th in Poznan.</font>]]></sentence>
+			<options>
+				<option>accept</option>
+				<option answer="correct">confirm</option>
+				<option>decide</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[</font>[#] <font color="#000000"> our recent discussions, I am now sending you a summary of our thoughts on the project.</font>]]></sentence>
+			<options>
+				<option>Follow</option>
+				<option answer="correct">Following</option>
+				<option >To follow</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[</font>[#] <font color="#000000"> you will find the new prices that we agreed during the negotiations.</font>]]></sentence>
+			<options>
+				<option answer="correct">Attached</option>
+				<option>Attach</option>
+				<option>Attachment</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I look forward </font>[#]<font color="#000000"> you in Poland next month.</font>]]></sentence>
+			<options>
+				<option answer="correct">to seeing</option>
+				<option >to see</option>
+				<option>seeing</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">If you </font>[#]<font color="#000000"> any queries, please contact me at any time.</font>]]></sentence>
+			<options>
+				<option>do</option>
+				<option>make</option>
+				<option answer="correct">have</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Does the agenda </font>[#]<font color="#000000"> your expectations?</font>]]></sentence>
+			<options>
+				<option>agree</option>
+				<option>make</option>
+				<option answer="correct">meet</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">So, the new hotels begin construction in June. Shall we move forward </font>[#]<font color="#000000"> this basis?</font>]]></sentence>
+			<options>
+				<option answer="correct">on</option>
+				<option>with</option>
+				<option>to</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">It has </font>[#]<font color="#000000"> to us that we also need to hire the management team for the new hotel.</font>]]></sentence>
+			<options>
+				<option>thought</option>
+				<option answer="correct">occurred</option>
+				<option>revealed</option>
+			</options>
+		</question>
+
+	</questions>
+</exercise>

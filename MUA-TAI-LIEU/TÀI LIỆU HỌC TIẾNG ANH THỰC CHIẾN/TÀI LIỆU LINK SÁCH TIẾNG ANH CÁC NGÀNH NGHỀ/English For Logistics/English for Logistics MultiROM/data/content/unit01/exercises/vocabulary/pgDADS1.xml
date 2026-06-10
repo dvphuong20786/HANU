@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Match the words and their definitions.</font>]]></rubric>
+	<questions>
+		<sentence><![CDATA[<font color="#000000">to provide goods or services: </font>[supply] <font color="#000000"></font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">a company that arranges transport for customers:  </font>[freight] <font color="#000000"> forwarder </font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">a person to whom goods are shipped: </font>[consignee] <font color="#000000"></font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">a company which delivers smaller items: </font>[courier] <font color="#000000"></font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">to reserve: </font>[book] <font color="#000000"></font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">goods stored in a warehouse: </font>[stock] <font color="#000000"></font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">a company which transports goods by road: </font>[haulage] <font color="#000000"> contractor </font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">a person who travels by ship, plane, or train: </font>[passenger] <font color="#000000"></font>]]></sentence>
+	</questions>
+</exercise>

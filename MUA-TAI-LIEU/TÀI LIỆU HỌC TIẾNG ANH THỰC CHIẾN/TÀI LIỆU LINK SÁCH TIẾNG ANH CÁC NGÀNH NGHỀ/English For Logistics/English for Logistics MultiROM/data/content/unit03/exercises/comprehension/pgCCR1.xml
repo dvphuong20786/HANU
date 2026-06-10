@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What do you think about the price they offer?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I don't think so.</font>]]></option>
+				<option><![CDATA[<font color="#000000">That's a good idea.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I think we need to talk to them again.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Do you agree?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Good point.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Yes, absolutely.</font>]]></option>
+				<option><![CDATA[<font color="#000000">No, I won't.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">In my opinion we should reduce the number of suppliers.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">I think you're right.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I don't believe that.</font>]]></option>
+				<option><![CDATA[<font color="#000000">So do I.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Why don't we have another meeting next week?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">Yes, let's do that.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes, I do.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes, please</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

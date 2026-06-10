@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Let's meet to discuss this. How about tomorrow at 2?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I'm afraid having another meeting then.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I afraid to have another meeting then.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I'm afraid I have another meeting then.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Let's meet to discuss this. How about Friday at 3?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">Yes. I can manage that.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes. I manage that.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes. I will manage this.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Do you mind if I call you Robert?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">No, not ever.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">No, not at all.</font>]]></option>
+				<option><![CDATA[<font color="#000000">No, not that.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Can we reschedule our meeting next week?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">That's fine. Do you have another time in mind?</font>]]></option>
+				<option><![CDATA[<font color="#000000">That's fine. Do you have another time to mind?</font>]]></option>
+				<option><![CDATA[<font color="#000000">That's fine. Do you have another time of mind?</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

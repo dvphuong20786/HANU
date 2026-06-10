@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Complete the sentences with the words on the right.</font>]]></rubric>
+	<questions>
+		<sentence><![CDATA[<font color="#000000">Is anyone willing to </font>[second]<font color="#000000"> Nancy's proposal?</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Fiona's [motion]<font color="#000000"> is carried: 5 votes for and 1 against.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">I'd like to </font>[propose]<font color="#000000"> we outsource our IT support.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Let's put this to a </font>[vote]<font color="#000000">.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">All those in </font>[favour]<font color="#000000"> of the suggestion?</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Tina's </font>[abstaining]<font color="#000000"> because she doesn't want to make a decision.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">The meeting was a success because we reached a </font>[consensus]<font color="#000000">.</font>]]></sentence>
+	</questions>
+</exercise>

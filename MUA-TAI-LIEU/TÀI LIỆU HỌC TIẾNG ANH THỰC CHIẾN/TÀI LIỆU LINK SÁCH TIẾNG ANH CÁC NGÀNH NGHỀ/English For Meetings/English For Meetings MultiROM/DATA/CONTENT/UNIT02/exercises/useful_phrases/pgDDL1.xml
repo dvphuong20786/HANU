@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word or phrase to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">Thanks for </font> [#] <font color="#000000"> here today.</font>]]></sentence>
+			<options>
+				<option>be</option>
+				<option answer="correct">being</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Why don't you introduce  [#] <font color="#000000"> to everyone.</font>]]></sentence>
+			<options>
+				<option>you</option>
+				<option answer="correct">yourself</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I </font>[#]<font color="#000000"> with Siemens since 2001.</font>]]></sentence>
+			<options>
+				<option answer="correct">have worked</option>
+				<option>am working</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I </font>[#]<font color="#000000"> in the Constance office.</font>]]></sentence>
+			<options>
+				<option>base</option>
+				<option answer="correct">am based</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Could you tell us </font>[#]<font color="#000000"> ?</font>]]></sentence>
+			<options>
+				<option answer="correct">who you are</option>
+				<option>who are you</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Can I introduce Georges Leopold </font>[#] <font color="#000000"> you all?</font>]]></sentence>
+			<options>
+				<option>with</option>
+				<option answer="correct">to</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]<font color="#000000"> us a bit about yourself.</font>]]></sentence>
+			<options>
+				<option>Say</option>
+				<option answer="correct">Tell</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I work  [#] <font color="#000000"> our Vienna branch.</font>]]></sentence>
+			<options>
+				<option>on</option>
+				<option answer="correct">for</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

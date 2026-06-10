@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">How does this packing system work?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">It works simple.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">It's actually quite simple.</font>]]></option>
+				<option><![CDATA[<font color="#000000">It is working properly.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What is the next step?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Following, you enter the bar code.</font>]]></option>
+				<option><![CDATA[<font color="#000000">After then, you enter the bar code.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">After that, you enter the bar code.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">What about the shipping labels?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">And now we come to the last stage of the process.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Now you can access all positions in the container.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">They will be printed automatically.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">How can we improve our company's warehouse management?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I think our warehouse system is not very efficient.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">By establishing automated storage systems.</font>]]></option>
+				<option><![CDATA[<font color="#000000">The system would ensure order-specific printing.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

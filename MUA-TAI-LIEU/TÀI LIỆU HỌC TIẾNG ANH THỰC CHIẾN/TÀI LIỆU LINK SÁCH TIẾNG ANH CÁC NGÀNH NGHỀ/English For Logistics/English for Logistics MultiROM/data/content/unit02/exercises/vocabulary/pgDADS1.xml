@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Complete the sentences with the words on the right.</font>]]></rubric>
+	<questions>
+		<sentence><![CDATA[<font color="#000000">We will </font>[pick up]<font color="#000000"> the goods at your warehouse.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">We have extensive knowledge and </font>[expertise]<font color="#000000"> in logistics.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Cargo Global provides a wide </font>[range]<font color="#000000"> of logistics services.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">We </font>[outsource]<font color="#000000"> some tasks to external companies.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Our </font>[value added]<font color="#000000"> services include kitting and packaging.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">We are a leading Asian air </font>[carrier]<font color="#000000">.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">We have a modern </font>[fleet]<font color="#000000"> of vehicles.</font>]]></sentence>
+	    <sentence><![CDATA[<font color="#000000">In our truck yard we use </font>[RFID]<font color="#000000"> tags to locate items.</font>]]></sentence>
+	</questions>
+</exercise>

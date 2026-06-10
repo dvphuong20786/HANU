@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Complete the sentences with the words on the right.</font>]]></rubric>
+	<questions>
+		<sentence><![CDATA[<font color="#000000">The container's internal </font>[width] <font color="#000000"> is 2.3 metres.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Please let me know the </font>[dimensions] <font color="#000000"> of the box in cm.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">What is the </font>[tare] <font color="#000000"> weight of the container?</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">We need to know the container's </font>[capacity] <font color="#000000"> in cubic metres.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">There are special requirements for </font>[hazardous] <font color="#000000"> goods.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">We can offer you a twenty-</font>[foot] <font color="#000000"> container.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">This box </font>[measures] <font color="#000000"> 80 by 85 cm.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">The box is almost five metres </font>[long] <font color="#000000">.</font>]]></sentence>
+	</questions>
+</exercise>

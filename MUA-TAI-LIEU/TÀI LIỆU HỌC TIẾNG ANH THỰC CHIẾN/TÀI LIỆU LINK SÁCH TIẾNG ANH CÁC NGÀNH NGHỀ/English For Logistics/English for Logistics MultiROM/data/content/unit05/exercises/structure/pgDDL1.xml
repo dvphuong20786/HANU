@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'd like to </font> [#] <font color="#000000"> about your freight rates.</font>]]></sentence>
+			<options>
+				<option>require</option>
+				<option answer="correct">enquire</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'm calling </font> [#] <font color="#000000"> the container options.<font>]]></sentence>
+			<options>
+				<option>for</option>
+				<option answer="correct">about </option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">For this consignment I would </font> [#]<font color="#000000"> air transport.</font>]]></sentence>
+			<options>
+				<option answer="correct">recommend</option>
+				<option>tell</option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000"></font>[#] <font color="#000000">, we could ship the goods by road.</font>]]></sentence>
+			<options>
+				<option>Alternative</option>
+				<option answer="correct">Alternatively</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">If you </font>[#]<font color="#000000">, we can also arrange longer loading times.</font>]]></sentence>
+			<options>
+				<option>preferred</option>
+				<option answer="correct">prefer</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I need some information </font>[#]<font color="#000000"> shipping schedules.</font>]]></sentence>
+			<options>
+					<option>regards</option>
+				<option answer="correct">regarding</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I need a quotation for a </font>[#]<font color="#000000"> to Sydney.</font>]]></sentence>
+			<options>
+				<option answer="correct">shipment</option>
+				<option>shipping</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What </font>[#]<font color="#000000"> would you like to ship?</font>]]></sentence>
+			<options>
+				<option answer="correct">exactly</option>
+				<option>exact</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

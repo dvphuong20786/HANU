@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct words to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+	
+		
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">We are </font>[#] <font color="#000000"> the opinion that our payment dates for customers are too generous. </font>]]></sentence>
+			<options>
+				<option>in</option>
+				<option answer="correct">of</option>
+				<option >on</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What do you mean </font>[#] <font color="#000000"> 'generous'?</font>]]></sentence>
+			<options>
+				<option>about</option>
+				<option answer="correct">by</option>
+				<option >with</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We give our customers too much time. It would be very </font>[#] <font color="#000000"> if they paid us within 30 days.</font>]]></sentence>
+			<options>
+				<option >help</option>
+				<option>helping</option>
+				<option answer="correct">helpful</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">If I </font>[#]<font color="#000000"> you correctly, we are going to reduce the payment period by a month.</font>]]></sentence>
+			<options>
+				<option>believe</option>
+				<option>comprehend</option>
+				<option answer="correct">understand</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Changing the payment dates? That would depend </font>[#]<font color="#000000"> the customers' agreement too. </font>]]></sentence>
+			<options>
+				<option>of</option>
+				<option answer="correct">on</option>
+				<option>to</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Could the problem be </font>[#]<font color="#000000"> by changing the payment period to 45 days?</font>]]></sentence>
+			<options>
+				<option>solve</option>
+				<option answer="correct">solved</option>
+				<option>solution</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I </font>[#]<font color="#000000"> confident that our customers will accept 30 days.</font>]]></sentence>
+			<options>
+				<option answer="correct">am</option>
+				<option>have</option>
+				<option>make</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">But what's the standard payment period in our industry? I imagine </font>[#]<font color="#000000"> something like 50-60 days.</font>]]></sentence>
+			<options>
+				<option>is</option>
+				<option>it</option>
+				<option answer="correct">it's</option>
+			</options>
+		</question>
+
+	</questions>
+</exercise>

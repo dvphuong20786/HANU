@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">We can provide you with </font> [#] <font color="#000000"> logistics solutions.</font>]]></sentence>
+			<options>
+				<option>customs</option>
+				<option answer="correct">customized </option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Our team will be </font>[#]<font color="#000000"> to handle your transport orders.</font>]]></sentence>
+			<options>
+				<option answer="correct">happy </option>
+				<option>lucky</option>
+							</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">This company is a </font>[#]<font color="#000000"> provider of air freight services.</font>]]></sentence>
+			<options>
+				<option answer="correct">leading </option>
+				<option>leader</option>
+							</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">As a </font>[#]<font color="#000000"> in rail transport, we can offer you express services.</font>]]></sentence>
+			<options>
+				<option>specialized</option>
+				<option answer="correct">specialist</option>
+							</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">For price </font>[#]<font color="#000000">, please use our electronic form.</font>]]></sentence>
+			<options>
+				<option>questions</option>
+				<option answer="correct">requests </option>
+							</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">This tool </font>[#] <font color="#000000"> you to book collections online.</font>]]></sentence>
+			<options>
+								<option>lets</option>
+				<option answer="correct">allows </option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We </font> [#] <font color="#000000"> our customers tailor-made transport services.</font>]]></sentence>
+			<options>
+				<option>give</option>
+				<option answer="correct">offer </option>
+							</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">If you want to plan a shipment, </font>[#] <font color="#000000"> log on to 'E-Shipping'.</font>]]></sentence>
+			<options>
+				<option>only</option>
+				<option answer="correct">just</option>
+							</options>
+		</question>
+	</questions>
+</exercise>

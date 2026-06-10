@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Match the descriptions with the words on the right.</font>]]></rubric>
+	<questions>
+		<sentence><![CDATA[<font color="#000000">A meeting where you try to find new ideas. </font>[Brainstorming]<font color="#000000"> meeting.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A meeting with the people who own a company like a plc. </font>[Shareholder]<font color="#000000"> meeting.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A meeting updating on recent developments on a project. </font>[Progress]<font color="#000000"> meeting.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A regular meeting of a company's top directors. </font>[Board]<font color="#000000"> meeting.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A meeting which is held when you are starting a project. </font>[Kick-off]<font color="#000000"> meeting.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A regular meeting of people who are working together.</font>[Team]<font color="#000000"> meeting.</font>]]></sentence>
+	</questions>
+</exercise>

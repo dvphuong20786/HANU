@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word or phrase to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[[#]<font color="#000000"> that we should invest in India.</font>]]></sentence>
+			<options>
+				<option>I'm convincing</option>
+				<option answer="correct">I'm convinced</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'm not sure I understand what  </font> [#] <font color="#000000">.</font>]]></sentence>
+			<options>
+				<option>you say</option>
+				<option answer="correct">you're saying</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'd like to </font>[#]<font color="#000000"> a point here if I could.</font>]]></sentence>
+			<options>
+				<option answer="correct">make</option>
+				<option>do</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I tend </font>[#]<font color="#000000"> that experience is most important for a manager.</font>]]></sentence>
+			<options>
+				<option answer="correct">to think</option>
+				<option>thinking</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">If I understand you </font>[#]<font color="#000000">, this will be very expensive.</font>]]></sentence>
+			<options>
+				<option>correct</option>
+				<option answer="correct">correctly</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Just a second please. I promise we'll </font>[#] <font color="#000000"> right back to you.</font>]]></sentence>
+			<options>
+				<option answer="correct">come</option>
+				<option>take</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">It </font>[#]<font color="#000000"> to me that this will be an expensive project.</font>]]></sentence>
+			<options>
+				<option answer="correct">seems</option>
+				<option>is seemed</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Could I </font>[#]<font color="#000000"> in to the conversation here?</font>]]></sentence>
+			<options>
+				<option>go</option>
+				<option answer="correct">come</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word or phrase to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[[#]<font color="#000000"> a time to meet next week?</font>]]></sentence>
+			<options>
+				<option>Schedule we</option>
+				<option answer="correct">Could we schedule</option>
+				<option>Would we schedule</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Would quarter past two  [#] <font color="#000000"> you?</font>]]></sentence>
+			<options>
+				<option>arrange</option>
+				<option>hold</option>
+				<option answer="correct">suit</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Perhaps we could meet and go over the details in </font>[#]<font color="#000000">?</font>]]></sentence>
+			<options>
+				<option answer="correct">person</option>
+				<option>persons</option>
+				<option>people</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Your suggestion is to meet in Las Vegas on 2 June. </font>[#]<font color="#000000"> good.</font>]]></sentence>
+			<options>
+				<option>Sound</option>
+				<option answer="correct">Sounds</option>
+				<option>Sounding</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">You'd like a breakfast meeting? Yes, that works </font>[#]<font color="#000000"> me.</font>]]></sentence>
+			<options>
+				<option>of</option>
+				<option>by</option>
+				<option answer="correct">for</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Can we meet and </font>[#] <font color="#000000"> over this together?</font>]]></sentence>
+			<options>
+				<option answer="correct">go</option>
+				<option>make</option>
+				<option>put</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">So I look forward </font>[#]<font color="#000000"> you on Friday at 2.</font>]]></sentence>
+			<options>
+				<option answer="correct">to seeing</option>
+				<option>to see</option>
+				<option>seeing</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I can't meet tomorrow. I'm a bit tied </font>[#]<font color="#000000"> then.</font>]]></sentence>
+			<options>
+				<option>out</option>
+				<option>behind</option>
+				<option answer="correct">up</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

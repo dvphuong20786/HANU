@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">It really was a pleasure to meet you in person at last.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I have the pleasure.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">The pleasure was mine.</font>]]></option>
+				<option><![CDATA[<font color="#000000">It was my pleasure.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Silvio, thanks for joining us today.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">Don't mention it.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Don't say it.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Don't talk about it.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">I look forward to seeing you again soon.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Identically, Mr Jones.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Equally, Mr Jones.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Likewise, Mr Jones.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Hopefully you'll be able to visit us again soon.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">I certainly hope so.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I certainly hope that.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I certainly hope it.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

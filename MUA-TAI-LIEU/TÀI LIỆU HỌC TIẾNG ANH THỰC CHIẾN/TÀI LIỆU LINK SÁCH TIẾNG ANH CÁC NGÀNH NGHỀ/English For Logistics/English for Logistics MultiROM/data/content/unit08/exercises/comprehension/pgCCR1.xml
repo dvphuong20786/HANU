@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">There is a problem with the shipment to Hong Kong.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">OK, I'll get on to that straight away.</font>]]></option>
+				<option><![CDATA[<font color="#000000">OK, I'll handle with that straight away.</font>]]></option>
+				<option><![CDATA[<font color="#000000">OK, I'll take care for that straight away.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">When will the container be delivered?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">You should have it by Tuesday.</font>]]></option>
+				<option><![CDATA[<font color="#000000">It will be delivered until Tuesday.</font>]]></option>
+				<option><![CDATA[<font color="#000000">We deliver before Tuesday.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">What are you going to do to solve this problem?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I'll call with the forwarding agent.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I'll get in touch with the forwarding agent.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I'll contact with the forwarding agent.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Thank you very much for your help.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">It's the best I can do for you.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">It's the least I can do.</font>]]></option>
+				<option><![CDATA[<font color="#000000">It's the last I can do.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

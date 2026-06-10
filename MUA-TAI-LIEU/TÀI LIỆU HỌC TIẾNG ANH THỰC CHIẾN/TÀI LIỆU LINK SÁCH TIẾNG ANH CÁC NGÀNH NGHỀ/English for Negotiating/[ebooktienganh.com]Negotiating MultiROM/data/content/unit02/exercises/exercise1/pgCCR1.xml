@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">When do you want to talk about the new suppliers?</font>]]></sentence>
+			<options>
+				<option ><![CDATA[<font color="#000000">Let meet next Monday.</font>]]></option>
+				<option ><![CDATA[<font color="#000000">Let to meet next Monday.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Let's meet next Monday.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">So the final price will be €1.15 per unit.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">That's great. Could you confirm that writing, please? </font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">That's great. Could you confirm that in writing, please?</font>]]></option>
+				<option ><![CDATA[<font color="#000000">That's great. Could you confirm that by writing, please?</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Valerie is going to be the sales representative at the special meeting next week.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I see. Who will she attend from Accounts?</font>]]></option>
+				<option><![CDATA[<font color="#000000">I see. Who attends from Accounts?</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I see. Who will attend from Accounts?</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">So you would like to discuss rescheduling your payments?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">That's right. Is adding it to the agenda OK with you?</font>]]></option>
+				<option><![CDATA[<font color="#000000">That's right. Is adding it to the agenda OK to you?</font>]]></option>
+				<option><![CDATA[<font color="#000000">That's right. Is adding it to the agenda OK at you?</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

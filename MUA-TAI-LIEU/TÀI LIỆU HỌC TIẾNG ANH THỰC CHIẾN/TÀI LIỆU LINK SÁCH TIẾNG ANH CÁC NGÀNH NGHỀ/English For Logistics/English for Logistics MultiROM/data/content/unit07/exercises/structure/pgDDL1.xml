@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word or phrase to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">Automated sorting is another big </font>[#]<font color="#000000"> point.</font>]]></sentence>
+			<options>
+				<option answer="correct">plus</option>
+				<option>good</option>			
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">This systems helps us </font>[#]<font color="#000000"> warehouse processes.</font>]]></sentence>
+			<options>
+				<option>improving</option>
+				<option answer="correct">improve</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">One major </font>[#]<font color="#000000"> is the print on demand feature.</font>]]></sentence>
+			<options>
+				<option answer="correct">advantage</option>
+				<option>additional</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">The </font>[#]<font color="#000000"> step of the process is to enter the bar code.</font>]]></sentence>
+			<options>
+				<option>firstly</option>
+				<option answer="correct">first</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Once this has </font>[#]<font color="#000000">, you can move on to the next stage.</font>]]></sentence>
+			<options>
+				<option answer="correct">been completed</option>
+				<option>completed</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Let me give you some of the system's main </font>[#] <font color="#000000">.</font>]]></sentence>
+			<options>
+				<option>feature</option>
+				<option answer="correct">benefits</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Now we come to the </font>[#] <font color="#000000"> step of the process.</font>]]></sentence>
+			<options>
+				<option answer="correct">last</option>
+				<option>least</option>
+			</options>
+		</question>
+		<question>e 
+			<sentence><![CDATA[<font color="#000000"></font>[#]<font color="#000000">, you can print out delivery notes.</font>]]></sentence>
+			<options>
+				<option>Final</option>
+				<option answer="correct">Finally</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

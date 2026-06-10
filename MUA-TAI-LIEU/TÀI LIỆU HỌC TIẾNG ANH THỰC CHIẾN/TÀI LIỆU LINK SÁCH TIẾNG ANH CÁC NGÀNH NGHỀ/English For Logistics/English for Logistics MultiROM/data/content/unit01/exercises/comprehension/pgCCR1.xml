@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response to the questions.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What do you do?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I worked for a global logistics company for two years.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I'm going to look for a new job soon.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I work for a big shipping company in Beijing.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What is your line of work?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">I work in the despatch department.</font>]]></option>
+				<option><![CDATA[<font color="#000000">My company is based in Singapore.</font>]]></option>
+				<option><![CDATA[<font color="#000000">We ship our goods by air.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Are you also responsible for transport solutions?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Yes, I'm in charge for that.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes, I'm dealing with that.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Yes, I am.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Do you export to South America?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">No, we didn't.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Yes, we do.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes, we can.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

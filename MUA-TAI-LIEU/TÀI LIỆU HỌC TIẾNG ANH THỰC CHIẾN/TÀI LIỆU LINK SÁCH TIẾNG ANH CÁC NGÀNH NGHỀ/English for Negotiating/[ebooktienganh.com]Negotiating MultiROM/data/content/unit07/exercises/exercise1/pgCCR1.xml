@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We've now got government permission for the new building.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">This is certainly a step towards succesful completion of the project.</font>]]></option>
+				<option><![CDATA[<font color="#000000">This is certainly a step forward succesful completion of the project.</font>]]></option>
+				<option><![CDATA[<font color="#000000">This is certainly a step over succesful completion of the project.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We have now recruited all our construction teams for the building project.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Fine, but it seems we need to discuss still the timetable.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Fine, but it seems still we need to discuss the timetable.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Fine, but it seems we still need to discuss the timetable.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">So you're confident that your company can do this?</font>]]></sentence>
+			<options>
+				<option ><![CDATA[<font color="#000000">I can assure that we'll complete the project in time and under budget.</font>]]></option>
+				<option ><![CDATA[<font color="#000000">I can assure it that we'll complete the project in time and under budget.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I can assure you that we'll complete the project in time and under budget.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Then I think we've agreed everything. I say 'let's do it!'</font>]]></sentence>
+			<options>
+				<option ><![CDATA[<font color="#000000">That's great news! It's deal!</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">That's great news! It's a deal!</font>]]></option>
+				<option><![CDATA[<font color="#000000">That's great news! It's the deal!</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

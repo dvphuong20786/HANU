@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Do you know why we are offering GGR Ltd. a 15% discount?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">This is because they are in financial difficulties at the moment.</font>]]></option>
+				<option ><![CDATA[<font color="#000000">This is because having financial difficulties at the moment.</font>]]></option>
+				<option><![CDATA[<font color="#000000">This is because their financial difficulties.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Do you have to have weekend delivery too?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Yes, I'm sorry. This is essential by our customers.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes, I'm sorry. This is essential of our customers.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Yes, I'm sorry. This is essential for our customers.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">You need the very best broadband connection?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Absolutely. This is must!</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Absolutely. This is a must!</font>]]></option>
+				<option ><![CDATA[<font color="#000000">Absolutely. This is the must!</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What limitations are there on our quotation?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">The price must fit our guidelines.</font>]]></option>
+				<option><![CDATA[<font color="#000000">The price must conform our guidelines.</font>]]></option>
+				<option><![CDATA[<font color="#000000">The price must agree our guidelines.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

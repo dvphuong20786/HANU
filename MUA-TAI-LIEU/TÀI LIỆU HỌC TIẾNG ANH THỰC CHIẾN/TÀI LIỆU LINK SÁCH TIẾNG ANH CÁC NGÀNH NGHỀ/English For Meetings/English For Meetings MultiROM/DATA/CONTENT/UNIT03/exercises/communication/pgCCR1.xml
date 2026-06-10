@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I have something very important to say about this.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Hold at for a moment and I promise I'll come right back to you.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Hold on a moment and I promise I'll come right back to you.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Hold in a moment and I promise I'll come right back to you.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">So, if we make all of these changes, we can save the company almost €30,000.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">I'm afraid I don't really follow your argument.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I'm afraid I don't really know your argument.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I'm afraid I don't really agree your argument.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">We changed our prices and it hasn't affected anything.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Do you meant that it was a mistake to lower our prices?</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Do you mean that it was a mistake to lower our prices?</font>]]></option>
+				<option><![CDATA[<font color="#000000">Is you mean that it was a mistake to lower our prices?</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">The most important thing is to look at the changes in the Italian market.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">Could I just comment on that?</font>]]></option>
+				<option><![CDATA[<font color="#000000">Could I just comment with that?</font>]]></option>
+				<option><![CDATA[<font color="#000000">Could I just comment over that?</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What's the reason for the delay?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">I think it was caused by bad weather conditions.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I think it resulted in bad weather conditions.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I think it was in spite of bad weather conditions.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Can't we use express services instead?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">I'm afraid not because of the weekend driving ban.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I'm afraid, but we can't because of the weekend driving ban.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I'm afraid but that's not possible because of the weekend driving ban.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">What exactly is the problem?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I'm really sorry about this problem.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I'm sorry to hear that.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">A part of the shipment was damaged.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What are you going to do about it?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I think I'll need to talk over this with the customer first.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I think I'll need to discuss this with the customer first.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I think I'll have to discuss about this with the customer first.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

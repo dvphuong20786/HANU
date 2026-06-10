@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What kind of customer support can your company offer us?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Well, there are several option that you could consider.</font>]]></option>
+				<option ><![CDATA[<font color="#000000">Well, there are several of options that you could consider.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Well, there are several options that you could consider.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We can provide a 24-hour call centre service at a very good price.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">That sounds an option for us.</font>]]></option>
+				<option><![CDATA[<font color="#000000">That sounds as an option for us.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">That sounds like an option for us.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Would you need call centre staff who can speak other languages?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">Now you mention it, we are hoping to get some new customers in Italy very soon.</font>]]></option>
+				<option ><![CDATA[<font color="#000000">Now you raise it, we are hoping to get some new customers in Italy very soon.</font>]]></option>
+				<option ><![CDATA[<font color="#000000">Now you tell it, we are hoping to get some new customers in Italy very soon.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What will the call centre staff say when they receive the calls?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">From our experience, it's best to prepare standard questions on the computer.</font>]]></option>
+				<option><![CDATA[<font color="#000000">To our experience, it's best to prepare standard questions on the computer.</font>]]></option>
+				<option><![CDATA[<font color="#000000">By our experience, it's best to prepare standard questions on the computer.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

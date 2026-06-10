@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Make words from the letters on the right. Then complete the sentences.</font>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[[#] <font color="#000000">, we need to stop losing money.</font>]]></sentence>
+			<answers>
+				<answer>Obviously</answer>
+				<answer>obviously</answer>
+				<answer>OBVIOUSLY</answer>						
+			</answers>
+			<hint pos="right"><![CDATA[<font color="#000000">liboovusy</font>]]></hint>
+		</question>
+		<question>
+			<sentence><![CDATA[[#] <font color="#000000">, I don't agree with this proposal.</font>]]></sentence>
+			<answers>
+				<answer>Frankly</answer>
+				<answer>frankly</answer>
+				<answer>FRANKLY</answer>				
+			</answers>
+			<hint pos="right"><![CDATA[<font color="#000000">karnlyf</font>]]></hint>
+		</question>
+		<question>
+			<sentence><![CDATA[[#] <font color="#000000">, we need to keep our customers happy.</font>]]></sentence>
+			<answers>
+				<answer>Basically</answer>
+				<answer>basically</answer>
+				<answer>BASICALLY</answer>
+			</answers>
+			<hint pos="right"><![CDATA[<font color="#000000">ablysical</font>]]></hint>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">To be </font>[#] <font color="#000000">I don't know what to do.</font>]]></sentence>
+			<answers>
+				<answer>honest</answer>
+				<answer>HONEST</answer>	
+			</answers>
+			<hint pos="right"><![CDATA[<font color="#000000">shenot</font>]]></hint>
+		</question>
+		<question>
+			<sentence><![CDATA[[#] <font color="#000000">, I don't think this idea will work.</font>]]></sentence>
+			<answers>
+				<answer>Personally</answer>
+				<answer>personally</answer>
+				<answer>PERSONALLY</answer>				
+			</answers>
+			<hint pos="right"><![CDATA[<font color="#000000">naryespoll</font>]]></hint>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">His work was not up to </font> [#]<font color="#000000">.</font>]]></sentence>
+			<answers>
+				<answer>standard</answer>
+				<answer>STANDARD</answer>				
+			</answers>
+			<hint pos="right"><![CDATA[<font color="#000000">dasandrt</font>]]></hint>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Their products are </font> [#]<font color="#000000">, average.</font>]]></sentence>
+			<answers>
+				<answer>mediocre</answer>
+				<answer>MEDIOCRE</answer>			
+			</answers>
+			<hint pos="right"><![CDATA[<font color="#000000">dremocie</font>]]></hint>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">This product is </font> [#] <font color="#000000"> for us.</font>]]></sentence>
+			<answers>
+				<answer>inadequate</answer>
+				<answer>INADEQUATE</answer>				
+			</answers>
+			<hint pos="right"><![CDATA[<font color="#000000">aquietdane</font>]]></hint>
+		</question>
+		
+	</questions>
+</exercise>

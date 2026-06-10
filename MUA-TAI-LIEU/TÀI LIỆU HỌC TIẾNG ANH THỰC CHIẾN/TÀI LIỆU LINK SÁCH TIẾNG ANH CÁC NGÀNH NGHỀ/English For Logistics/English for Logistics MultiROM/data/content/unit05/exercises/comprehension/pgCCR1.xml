@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Could you give me a quotation for air freight to India?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Sure. What is the problem?</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Sure. What exactly do you want to ship?</font>]]></option>
+				<option><![CDATA[<font color="#000000">Sure. What will you ship?</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Do you have any special shipping requirements?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">No, we don't.</font>]]></option>
+				<option><![CDATA[<font color="#000000">No, we haven't.</font>]]></option>
+				<option><![CDATA[<font color="#000000">No, we don't have.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">What's the gross weight of the container?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">It's weigh is 21,000 kg.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">It weighs 21,000 kg.</font>]]></option>
+				<option><![CDATA[<font color="#000000">It has a 21,000 kg weight.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Which of these transport options would you recommend?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">I would recommend using the block train option.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I would recommend you the block train option.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I would recommend to use the block train option.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

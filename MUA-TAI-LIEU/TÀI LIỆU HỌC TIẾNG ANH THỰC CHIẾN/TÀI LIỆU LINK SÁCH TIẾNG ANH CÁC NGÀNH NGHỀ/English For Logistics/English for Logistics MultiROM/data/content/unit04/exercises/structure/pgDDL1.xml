@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word or phrase to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">The rail option would be </font>[#] <font color="#000000"> than using a truck.</font>]]></sentence>
+			<options>
+								<option>slowest</option>
+				<option answer="correct">slower </option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">How </font> [#] <font color="#000000"> would it take by barge?</font>]]></sentence>
+			<options>
+					<option answer="correct">long </option>
+				<option>longer</option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Shipping costs would be 50 per cent </font>[#]<font color="#000000">.</font>]]></sentence>
+			<options>
+				<option answer="correct">higher</option>
+				<option>greater</option>
+				</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Air freight is a lot more </font>[#]<font color="#000000">.</font>]]></sentence>
+			<options>
+				<option>cheaper</option>
+				<option answer="correct">expensive</option>
+				</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">They offer the </font>[#]<font color="#000000"> transport service in this country.</font>]]></sentence>
+			<options>
+				<option>worse</option>
+				<option answer="correct">worst</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">The express train to Moscow is much </font>[#]<font color="#000000">.</font>]]></sentence>
+			<options>
+				<option>more fast</option>
+				<option answer="correct">faster</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000"> What would be the most </font>[#] <font color="#000000"> transport mode?</font>]]></sentence>
+			<options>
+				<option answer="correct">reliable</option>
+				<option>safe</option>
+					</options>
+		</question>
+<question>
+			<sentence><![CDATA[<font color="#000000">This load is much </font>[#] <font color="#000000"> than we expected.</font>]]></sentence>
+			<options>
+				<option answer="correct">heavier</option>
+				<option>heavy</option>
+					</options>
+		</question>
+	</questions>
+</exercise>

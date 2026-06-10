@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Complete the sentences with the words on the right.</font>]]></rubric>
+	<questions>
+		<sentence><![CDATA[<font color="#000000">Right, everyone's here. Let's </font>[get]<font color="#000000"> down to business.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Let's take five minutes to </font>[go]<font color="#000000">  back over what we discussed last week.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Today we are </font>[looking]<font color="#000000"> at why our sales figures are so poor.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">We need to </font>[think]<font color="#000000"> about why things are going wrong.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">We are </font>[finishing]<font color="#000000"> off our discussions this afternoon.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">We are </font>[talking]<font color="#000000"> about making some major changes this week.</font>]]></sentence>
+	</questions>
+</exercise>

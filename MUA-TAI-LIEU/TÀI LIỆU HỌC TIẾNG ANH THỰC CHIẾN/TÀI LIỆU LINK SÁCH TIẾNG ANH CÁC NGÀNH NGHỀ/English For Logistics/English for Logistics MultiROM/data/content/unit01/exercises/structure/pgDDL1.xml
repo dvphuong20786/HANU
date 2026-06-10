@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">I work </font>[#] <font color="#000000"> a major transport company.</font>]]></sentence>
+			<options>
+				<option>by</option>
+				<option answer="correct">for</option>
+					</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">In my job I have to </font>[#] <font color="#000000"> customer contracts.</font>]]></sentence>
+			<options>
+				<option answer="correct">negotiate</option>
+				<option>deal</option>
+							</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What's your </font>[#]<font color="#000000"> of work?</font>]]></sentence>
+			<options>
+								<option>branch</option>
+				<option answer="correct">line</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">My job </font>[#]<font color="#000000"> developing business plans.</font>]]></sentence>
+			<options>
+								<option>contains</option>
+				<option answer="correct">involves</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'm responsible </font>[#]<font color="#000000"> warehouse management.</font>]]></sentence>
+			<options>
+				<option answer="correct">for</option>
+				<option>of</option>
+							</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">In my job I have to </font>[#] <font color="#000000"> with other departments.</font>]]></sentence>
+			<options>
+				<option>advise</option>
+				<option answer="correct">liaise</option>
+						</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">My responsibilities </font>[#]<font color="#000000"> arranging transport.</font>]]></sentence>
+			<options>
+				<option answer="correct">include</option>
+				<option>provide</option>
+						</options>
+		</question>
+<question>
+			<sentence><![CDATA[<font color="#000000">I advise customers </font>[#]<font color="#000000"> shipping rates.</font>]]></sentence>
+			<options>
+				<option answer="correct">on</option>
+				<option>about</option>
+						</options>
+		</question>
+	</questions>
+</exercise>

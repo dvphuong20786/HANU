@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Do you know Neil Baxter?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">No, I don't think we'll meet.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">No, I don't think we've met.</font>]]></option>
+				<option><![CDATA[<font color="#000000">No, I don't think we meet.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Is everybody here?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">No, we're still waiting for James.</font>]]></option>
+				<option><![CDATA[<font color="#000000">No, we still wait for James.</font>]]></option>
+				<option><![CDATA[<font color="#000000">No, we'll still wait for James.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'm so busy. I have no free time at all.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I know. Speak to me about it!</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I know. Tell me about it!</font>]]></option>
+				<option><![CDATA[<font color="#000000">I know. Say me about it!</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Hi Steve, how are you?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Oh, hello, Irena. Make me introduce my colleague, Luke Wood.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Oh, hello, Irena. Allow me introduce my colleague, Luke Wood.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Oh, hello, Irena. Let me introduce my colleague, Luke Wood.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Shall we start?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Yes. Who wants to put the ball rolling?</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Yes. Who wants to get the ball rolling?</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes. Who wants to send the ball rolling?</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What do you think should happen?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">There's no doubt in my brain that John should resign.</font>]]></option>
+				<option><![CDATA[<font color="#000000">There's no doubt in my head that John should resign.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">There's no doubt in my mind that John should resign.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">What's the problem?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">We're not happy with your work. It's just not adequate.</font>]]></option>
+				<option><![CDATA[<font color="#000000">We're not happy with your work. It's just not awful.</font>]]></option>
+				<option><![CDATA[<font color="#000000">We're not happy with your work. It's just not terrible.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What do you think of the final result?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Unfortunately, their work has not been up about standard.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Unfortunately, their work has not been up with standard.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Unfortunately, their work has not been up to standard.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

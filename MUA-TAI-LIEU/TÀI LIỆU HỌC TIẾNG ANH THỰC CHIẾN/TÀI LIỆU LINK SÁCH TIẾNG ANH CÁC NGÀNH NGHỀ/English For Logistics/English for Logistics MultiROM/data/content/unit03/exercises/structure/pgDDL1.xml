@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">I </font>[#]<font color="#000000"> that we ask for another quotation.</font>]]></sentence>
+			<options>
+				<option>thought</option>
+				<option answer="correct">suggest</option>
+							</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">In my </font> [#] <font color="#000000"> we should reduce the price.</font>]]></sentence>
+			<options>
+				<option answer="correct">opinion</option>
+				<option>meaning</option>
+							</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We can </font>[#]<font color="#000000"> you a price of €550.</font>]]></sentence>
+			<options>
+				<option>tell</option>
+					<option answer="correct">quote</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Delivery will be made <font>[#]<font color="#000000"> 10 days of receipt of order.</font>]]></sentence>
+			<options>
+				<option answer="correct">within</option>
+				<option>in</option>
+					</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Please </font>[#] <font color="#000000"> attached our quotation.</font>]]></sentence>
+			<options>
+				<option>look</option>
+				<option answer="correct">find</option>
+
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">As </font>[#]<font color="#000000">, we will deliver the goods to your warehouse.</font>]]></sentence>
+			<options>
+				<option answer="correct">requested</option>
+				<option>wanted</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">The prices </font>[#]<font color="#000000"> a handling charge.</font>]]></sentence>
+			<options>
+				<option>inquire</option>
+				<option answer="correct">include</option>
+							</options>
+		</question>
+	<question>
+			<sentence><![CDATA[<font color="#000000">Our prices are </font>[#]<font color="#000000"> on the basis of your forecast.</font>]]></sentence>
+			<options>
+				<option>added</option>
+				<option answer="correct">calculated </option>
+							</options>
+		</question>
+		</questions>
+</exercise>
